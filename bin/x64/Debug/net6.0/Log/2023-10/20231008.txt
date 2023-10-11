@@ -1,0 +1,88 @@
+2023-10-08 09:24:04,407 [1]DEBUG OcrToPdfOnConsole2.Program - start
+2023-10-08 09:32:03,414 [1]DEBUG OcrToPdfOnConsole2.Program - start
+2023-10-08 09:33:37,446 [1]DEBUG OcrToPdfOnConsole2.Program - start
+2023-10-08 09:46:48,671 [1]DEBUG OcrToPdfOnConsole2.Program - start
+2023-10-08 09:47:16,410 [8]ERROR OcrToPdfOnConsole2.Program - Could not find file 'D:\Pdf2\Processed\Images3\No.KH030005(1)-Split2.jpg'.
+2023-10-08 09:47:31,355 [5]ERROR OcrToPdfOnConsole2.Program - Could not find file 'D:\Pdf2\Processed\Images3\No.KH030005(1)-Split2.jpg'.
+2023-10-08 09:47:46,199 [6]ERROR OcrToPdfOnConsole2.Program - Could not find file 'D:\Pdf2\Processed\Images3\No.KH030005(1)-Split2.jpg'.
+2023-10-08 09:51:35,439 [1]DEBUG OcrToPdfOnConsole2.Program - start
+2023-10-08 09:51:42,880 [3]ERROR OcrToPdfOnConsole2.Program - Could not find file 'D:\Pdf2\Processed\Images3\KHO50366(1)-Split2.jpg'.
+2023-10-08 09:51:57,905 [5]ERROR OcrToPdfOnConsole2.Program - Could not find file 'D:\Pdf2\Processed\Images3\KHO50366(1)-Split2.jpg'.
+2023-10-08 09:52:33,454 [1]DEBUG OcrToPdfOnConsole2.Program - start
+2023-10-08 09:55:59,128 [1]DEBUG OcrToPdfOnConsole2.Program - start
+2023-10-08 10:15:00,777 [1]DEBUG OcrToPdfOnConsole2.Program - start
+2023-10-08 10:15:16,840 [1]DEBUG OcrToPdfOnConsole2.Program - start
+2023-10-08 10:16:28,850 [9]ERROR OcrToPdfOnConsole2.Program - Out of memory.
+2023-10-08 10:17:22,288 [7]ERROR OcrToPdfOnConsole2.Program - Out of memory.
+2023-10-08 10:20:42,361 [1]DEBUG OcrToPdfOnConsole2.Program - start
+2023-10-08 10:20:52,197 [1]DEBUG OcrToPdfOnConsole2.Program - start
+2023-10-08 10:30:00,309 [1]DEBUG OcrToPdfOnConsole2.Program - start
+2023-10-08 10:32:58,432 [1]DEBUG OcrToPdfOnConsole2.Program - start
+2023-10-08 10:34:20,053 [1]DEBUG OcrToPdfOnConsole2.Program - start
+2023-10-08 10:36:56,498 [1]DEBUG OcrToPdfOnConsole2.Program - start
+2023-10-08 10:39:36,867 [1]DEBUG OcrToPdfOnConsole2.Program - start
+2023-10-08 10:40:28,721 [1]DEBUG OcrToPdfOnConsole2.Program - start
+2023-10-08 10:41:18,542 [1]DEBUG OcrToPdfOnConsole2.Program - start
+2023-10-08 10:43:02,029 [1]DEBUG OcrToPdfOnConsole2.Program - start
+2023-10-08 10:46:41,787 [1]DEBUG OcrToPdfOnConsole2.Program - start
+2023-10-08 10:49:58,333 [3]ERROR OcrToPdfOnConsole2.Program - Attempted to access a missing method.
+2023-10-08 10:50:18,568 [12]ERROR OcrToPdfOnConsole2.Program - A generic error occurred in GDI+.
+2023-10-08 10:50:39,665 [14]ERROR OcrToPdfOnConsole2.Program - A generic error occurred in GDI+.
+2023-10-08 10:51:08,863 [1]DEBUG OcrToPdfOnConsole2.Program - start
+2023-10-08 10:53:27,441 [1]DEBUG OcrToPdfOnConsole2.Program - start
+2023-10-08 10:54:33,850 [1]DEBUG OcrToPdfOnConsole2.Program - start
+2023-10-08 10:55:55,268 [1]DEBUG OcrToPdfOnConsole2.Program - start
+2023-10-08 11:12:04,829 [1]DEBUG OcrToPdfOnConsole2.Program - start
+2023-10-08 11:17:54,429 [1]DEBUG OcrToPdfOnConsole2.Program - start
+2023-10-08 11:21:02,045 [1]DEBUG OcrToPdfOnConsole2.Program - start
+2023-10-08 11:25:25,519 [1]DEBUG OcrToPdfOnConsole2.Program - start
+2023-10-08 11:28:18,358 [1]DEBUG OcrToPdfOnConsole2.Program - start
+2023-10-08 11:30:21,497 [1]DEBUG OcrToPdfOnConsole2.Program - start
+2023-10-08 11:33:40,042 [1]DEBUG OcrToPdfOnConsole2.Program - start
+2023-10-08 11:37:43,110 [22]ERROR OcrToPdfOnConsole2.Program - A generic error occurred in GDI+.
+2023-10-08 11:38:04,587 [20]ERROR OcrToPdfOnConsole2.Program - A generic error occurred in GDI+.
+2023-10-08 11:38:24,948 [24]ERROR OcrToPdfOnConsole2.Program - A generic error occurred in GDI+.
+2023-10-08 11:38:46,095 [25]ERROR OcrToPdfOnConsole2.Program - A generic error occurred in GDI+.
+2023-10-08 11:39:25,583 [1]DEBUG OcrToPdfOnConsole2.Program - start
+2023-10-08 13:57:17,136 [1]DEBUG OcrToPdfOnConsole2.Program - start
+2023-10-08 14:28:52,594 [1]DEBUG OcrToPdfOnConsole2.Program - start
+2023-10-08 14:29:41,391 [1]DEBUG OcrToPdfOnConsole2.Program - start
+2023-10-08 14:30:55,134 [1]DEBUG OcrToPdfOnConsole2.Program - start
+2023-10-08 14:32:18,104 [1]DEBUG OcrToPdfOnConsole2.Program - start
+2023-10-08 14:32:46,307 [3]ERROR OcrToPdfOnConsole2.Program - The process cannot access the file 'D:\Pdf2\Processed\Images3\KHO50366(1)-Split3.jpg' because it is being used by another process.
+2023-10-08 14:33:31,098 [1]DEBUG OcrToPdfOnConsole2.Program - start
+2023-10-08 14:37:32,949 [1]DEBUG OcrToPdfOnConsole2.Program - start
+2023-10-08 14:43:31,542 [1]DEBUG OcrToPdfOnConsole2.Program - start
+2023-10-08 14:43:40,738 [1]DEBUG OcrToPdfOnConsole2.Program - start
+2023-10-08 14:45:15,138 [1]DEBUG OcrToPdfOnConsole2.Program - start
+2023-10-08 14:47:20,700 [1]DEBUG OcrToPdfOnConsole2.Program - start
+2023-10-08 14:50:43,316 [1]DEBUG OcrToPdfOnConsole2.Program - start
+2023-10-08 14:50:50,874 [1]DEBUG OcrToPdfOnConsole2.Program - start
+2023-10-08 14:53:12,361 [1]DEBUG OcrToPdfOnConsole2.Program - start
+2023-10-08 14:57:28,237 [1]DEBUG OcrToPdfOnConsole2.Program - start
+2023-10-08 15:10:38,228 [1]DEBUG OcrToPdfOnConsole2.Program - start
+2023-10-08 15:11:04,441 [1]DEBUG OcrToPdfOnConsole2.Program - start
+2023-10-08 15:21:48,742 [1]DEBUG OcrToPdfOnConsole2.Program - start
+2023-10-08 15:48:19,240 [1]DEBUG OcrToPdfOnConsole2.Program - start
+2023-10-08 15:51:24,621 [1]DEBUG OcrToPdfOnConsole2.Program - start
+2023-10-08 16:14:48,865 [1]DEBUG OcrToPdfOnConsole2.Program - start
+2023-10-08 16:39:43,192 [1]DEBUG OcrToPdfOnConsole2.Program - start
+2023-10-08 16:53:53,263 [1]DEBUG OcrToPdfOnConsole2.Program - start
+2023-10-08 17:12:12,230 [1]DEBUG OcrToPdfOnConsole2.Program - start
+2023-10-08 17:12:21,747 [3]ERROR OcrToPdfOnConsole2.Program - Could not find file 'D:\Pdf2\Processed\RemainingPage_Img\KHO50366(1)-Split2.jpg'.
+2023-10-08 17:12:36,932 [5]ERROR OcrToPdfOnConsole2.Program - Could not find file 'D:\Pdf2\Processed\RemainingPage_Img\KHO50366(1)-Split2.jpg'.
+2023-10-08 17:12:52,138 [6]ERROR OcrToPdfOnConsole2.Program - Could not find file 'D:\Pdf2\Processed\RemainingPage_Img\KHO50366(1)-Split2.jpg'.
+2023-10-08 17:13:07,355 [8]ERROR OcrToPdfOnConsole2.Program - Could not find file 'D:\Pdf2\Processed\RemainingPage_Img\KHO50366(1)-Split2.jpg'.
+2023-10-08 17:13:22,620 [11]ERROR OcrToPdfOnConsole2.Program - Could not find file 'D:\Pdf2\Processed\RemainingPage_Img\KHO50366(1)-Split2.jpg'.
+2023-10-08 17:13:37,797 [12]ERROR OcrToPdfOnConsole2.Program - Could not find file 'D:\Pdf2\Processed\RemainingPage_Img\KHO50366(1)-Split2.jpg'.
+2023-10-08 17:13:53,000 [13]ERROR OcrToPdfOnConsole2.Program - Could not find file 'D:\Pdf2\Processed\RemainingPage_Img\KHO50366(1)-Split2.jpg'.
+2023-10-08 17:14:08,571 [14]ERROR OcrToPdfOnConsole2.Program - Could not find file 'D:\Pdf2\Processed\RemainingPage_Img\KHO50366(1)-Split2.jpg'.
+2023-10-08 17:14:24,187 [15]ERROR OcrToPdfOnConsole2.Program - Could not find file 'D:\Pdf2\Processed\RemainingPage_Img\KHO50366(1)-Split2.jpg'.
+2023-10-08 17:14:39,635 [16]ERROR OcrToPdfOnConsole2.Program - Could not find file 'D:\Pdf2\Processed\RemainingPage_Img\KHO50366(1)-Split2.jpg'.
+2023-10-08 17:14:54,980 [17]ERROR OcrToPdfOnConsole2.Program - Could not find file 'D:\Pdf2\Processed\RemainingPage_Img\KHO50366(1)-Split2.jpg'.
+2023-10-08 17:15:10,272 [18]ERROR OcrToPdfOnConsole2.Program - Could not find file 'D:\Pdf2\Processed\RemainingPage_Img\KHO50366(1)-Split2.jpg'.
+2023-10-08 17:15:25,750 [19]ERROR OcrToPdfOnConsole2.Program - Could not find file 'D:\Pdf2\Processed\RemainingPage_Img\KHO50366(1)-Split2.jpg'.
+2023-10-08 17:15:41,319 [20]ERROR OcrToPdfOnConsole2.Program - Could not find file 'D:\Pdf2\Processed\RemainingPage_Img\KHO50366(1)-Split2.jpg'.
+2023-10-08 17:15:56,680 [21]ERROR OcrToPdfOnConsole2.Program - Could not find file 'D:\Pdf2\Processed\RemainingPage_Img\KHO50366(1)-Split2.jpg'.
+2023-10-08 17:16:11,955 [22]ERROR OcrToPdfOnConsole2.Program - Could not find file 'D:\Pdf2\Processed\RemainingPage_Img\KHO50366(1)-Split2.jpg'.
+2023-10-08 17:17:50,239 [1]DEBUG OcrToPdfOnConsole2.Program - start

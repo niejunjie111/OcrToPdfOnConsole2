@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>OcrToPdfOnConsole2</id>
+    <version>1.0.0</version>
+    <authors>OcrToPdfOnConsole2</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net6.0">
+        <dependency id="O2S.Components.PDFRender4NET.Win" version="11.1.4" exclude="Build,Analyzers" />
+        <dependency id="PaddleOCRSharp" version="3.1.0" exclude="Build,Analyzers" />
+        <dependency id="PdfiumViewer" version="2.13.0" exclude="Build,Analyzers" />
+        <dependency id="Spire.PDF" version="8.12.5" exclude="Build,Analyzers" />
+        <dependency id="SqlSugarCore" version="5.1.4.91" exclude="Build,Analyzers" />
+        <dependency id="System.Configuration.ConfigurationManager" version="7.0.0" exclude="Build,Analyzers" />
+        <dependency id="iTextSharp" version="5.5.13.3" exclude="Build,Analyzers" />
+        <dependency id="itext7" version="8.0.1" exclude="Build,Analyzers" />
+        <dependency id="itext7.commons" version="8.0.1" exclude="Build,Analyzers" />
+        <dependency id="itext7.font-asian" version="8.0.1" exclude="Build,Analyzers" />
+        <dependency id="log4net" version="2.0.7" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+    <contentFiles>
+      <files include="any/net6.0/O2S.Graphics.Quadrifoglio.dll" buildAction="Content" />
+    </contentFiles>
+  </metadata>
+  <files>
+    <file src="D:\Project\操作pdf与图片\OcrToPdfOnConsole2\bin\x64\Debug\net6.0\OcrToPdfOnConsole2.runtimeconfig.json" target="lib\net6.0\OcrToPdfOnConsole2.runtimeconfig.json" />
+    <file src="D:\Project\操作pdf与图片\OcrToPdfOnConsole2\bin\x64\Debug\net6.0\OcrToPdfOnConsole2.dll" target="lib\net6.0\OcrToPdfOnConsole2.dll" />
+    <file src="C:\Users\niejj\.nuget\packages\o2s.components.pdfrender4net.win\11.1.4\runtimes\win-x86\native\O2S.Graphics.Quadrifoglio.dll" target="content\O2S.Graphics.Quadrifoglio.dll" />
+    <file src="C:\Users\niejj\.nuget\packages\o2s.components.pdfrender4net.win\11.1.4\runtimes\win-x86\native\O2S.Graphics.Quadrifoglio.dll" target="contentFiles\any\net6.0\O2S.Graphics.Quadrifoglio.dll" />
+  </files>
+</package>

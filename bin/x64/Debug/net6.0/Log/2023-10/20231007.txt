@@ -1,0 +1,90 @@
+2023-10-07 10:33:14,546 [1]DEBUG OcrToPdfOnConsole2.Program - start
+2023-10-07 10:33:21,311 [3]ERROR OcrToPdfOnConsole2.Program - The process cannot access the file 'D:\Pdf2\Source\SKM_C36823080115260-Split1.pdf' because it is being used by another process.
+2023-10-07 10:34:03,574 [1]DEBUG OcrToPdfOnConsole2.Program - start
+2023-10-07 10:43:55,264 [1]DEBUG OcrToPdfOnConsole2.Program - start
+2023-10-07 10:54:35,959 [1]DEBUG OcrToPdfOnConsole2.Program - start
+2023-10-07 11:03:18,119 [1]DEBUG OcrToPdfOnConsole2.Program - start
+2023-10-07 11:18:10,608 [1]DEBUG OcrToPdfOnConsole2.Program - start
+2023-10-07 11:19:33,942 [3]ERROR OcrToPdfOnConsole2.Program - Parameter is not valid.
+2023-10-07 11:20:55,143 [7]ERROR OcrToPdfOnConsole2.Program - Parameter is not valid.
+2023-10-07 11:21:35,440 [1]DEBUG OcrToPdfOnConsole2.Program - start
+2023-10-07 11:37:59,027 [1]DEBUG OcrToPdfOnConsole2.Program - start
+2023-10-07 11:44:53,415 [1]DEBUG OcrToPdfOnConsole2.Program - start
+2023-10-07 11:45:33,249 [9]ERROR OcrToPdfOnConsole2.Program - Index was outside the bounds of the array.
+2023-10-07 11:45:43,295 [10]ERROR OcrToPdfOnConsole2.Program - Index was outside the bounds of the array.
+2023-10-07 11:45:53,319 [5]ERROR OcrToPdfOnConsole2.Program - Index was outside the bounds of the array.
+2023-10-07 11:46:03,363 [8]ERROR OcrToPdfOnConsole2.Program - Index was outside the bounds of the array.
+2023-10-07 11:46:13,414 [3]ERROR OcrToPdfOnConsole2.Program - Index was outside the bounds of the array.
+2023-10-07 11:46:45,202 [1]DEBUG OcrToPdfOnConsole2.Program - start
+2023-10-07 11:47:28,800 [3]ERROR OcrToPdfOnConsole2.Program - The process cannot access the file 'D:\Pdf2\Source\SKM_C36823080115260-Split1.pdf' because it is being used by another process.
+2023-10-07 11:47:38,865 [7]ERROR OcrToPdfOnConsole2.Program - The process cannot access the file 'D:\Pdf2\Source\SKM_C36823080115260-Split1.pdf' because it is being used by another process.
+2023-10-07 11:47:44,508 [1]DEBUG OcrToPdfOnConsole2.Program - start
+2023-10-07 11:47:45,842 [10]ERROR OcrToPdfOnConsole2.Program - Index was outside the bounds of the array.
+2023-10-07 11:47:55,897 [8]ERROR OcrToPdfOnConsole2.Program - Index was outside the bounds of the array.
+2023-10-07 11:48:05,944 [6]ERROR OcrToPdfOnConsole2.Program - Index was outside the bounds of the array.
+2023-10-07 11:48:32,566 [3]ERROR OcrToPdfOnConsole2.Program - Index was outside the bounds of the array.
+2023-10-07 11:48:42,597 [9]ERROR OcrToPdfOnConsole2.Program - Index was outside the bounds of the array.
+2023-10-07 11:48:52,647 [12]ERROR OcrToPdfOnConsole2.Program - Index was outside the bounds of the array.
+2023-10-07 11:49:34,999 [1]DEBUG OcrToPdfOnConsole2.Program - start
+2023-10-07 11:52:41,563 [1]DEBUG OcrToPdfOnConsole2.Program - start
+2023-10-07 11:52:42,896 [8]ERROR OcrToPdfOnConsole2.Program - Index was outside the bounds of the array.
+2023-10-07 11:52:52,953 [5]ERROR OcrToPdfOnConsole2.Program - Index was outside the bounds of the array.
+2023-10-07 11:53:02,988 [3]ERROR OcrToPdfOnConsole2.Program - Index was outside the bounds of the array.
+2023-10-07 13:48:24,634 [1]DEBUG OcrToPdfOnConsole2.Program - start
+2023-10-07 13:48:25,987 [3]ERROR OcrToPdfOnConsole2.Program - Index was outside the bounds of the array.
+2023-10-07 13:48:36,021 [5]ERROR OcrToPdfOnConsole2.Program - Index was outside the bounds of the array.
+2023-10-07 13:49:50,302 [1]DEBUG OcrToPdfOnConsole2.Program - start
+2023-10-07 13:49:51,784 [3]ERROR OcrToPdfOnConsole2.Program - Could not find file 'D:\Pdf2\Source\SKM_C36823080115260-Split1.pdf'.
+2023-10-07 13:50:41,788 [1]DEBUG OcrToPdfOnConsole2.Program - start
+2023-10-07 13:51:18,608 [1]DEBUG OcrToPdfOnConsole2.Program - start
+2023-10-07 13:51:35,433 [1]DEBUG OcrToPdfOnConsole2.Program - start
+2023-10-07 13:51:59,194 [8]ERROR OcrToPdfOnConsole2.Program - The process cannot access the file 'D:\Pdf2\Source\SKM_C36823080115260-Split1.pdf' because it is being used by another process.
+2023-10-07 13:57:26,749 [1]DEBUG OcrToPdfOnConsole2.Program - start
+2023-10-07 13:57:42,431 [3]ERROR OcrToPdfOnConsole2.Program - Parameter is not valid.
+2023-10-07 13:58:05,469 [6]ERROR OcrToPdfOnConsole2.Program - Parameter is not valid.
+2023-10-07 13:58:29,513 [11]ERROR OcrToPdfOnConsole2.Program - Parameter is not valid.
+2023-10-07 13:59:02,998 [1]DEBUG OcrToPdfOnConsole2.Program - start
+2023-10-07 14:06:20,220 [1]DEBUG OcrToPdfOnConsole2.Program - start
+2023-10-07 14:28:22,811 [1]DEBUG OcrToPdfOnConsole2.Program - start
+2023-10-07 14:29:17,285 [1]DEBUG OcrToPdfOnConsole2.Program - start
+2023-10-07 14:30:15,154 [1]DEBUG OcrToPdfOnConsole2.Program - start
+2023-10-07 14:34:24,290 [8]ERROR OcrToPdfOnConsole2.Program - Parameter is not valid.
+2023-10-07 14:36:25,304 [1]DEBUG OcrToPdfOnConsole2.Program - start
+2023-10-07 14:43:08,287 [1]DEBUG OcrToPdfOnConsole2.Program - start
+2023-10-07 14:44:50,880 [1]DEBUG OcrToPdfOnConsole2.Program - start
+2023-10-07 14:46:56,927 [1]DEBUG OcrToPdfOnConsole2.Program - start
+2023-10-07 14:47:54,547 [1]DEBUG OcrToPdfOnConsole2.Program - start
+2023-10-07 14:49:26,544 [1]DEBUG OcrToPdfOnConsole2.Program - start
+2023-10-07 15:09:12,220 [1]DEBUG OcrToPdfOnConsole2.Program - start
+2023-10-07 15:19:57,980 [1]DEBUG OcrToPdfOnConsole2.Program - start
+2023-10-07 15:25:15,067 [1]DEBUG OcrToPdfOnConsole2.Program - start
+2023-10-07 15:25:22,770 [8]ERROR OcrToPdfOnConsole2.Program - Could not find file 'D:\Pdf2\Source\SKM_C36823080115260-Split4.pdf'.
+2023-10-07 15:25:35,758 [5]ERROR OcrToPdfOnConsole2.Program - Could not find file 'D:\Pdf2\Source\SKM_C36823080115260-Split4.pdf'.
+2023-10-07 15:25:49,246 [7]ERROR OcrToPdfOnConsole2.Program - Could not find file 'D:\Pdf2\Source\SKM_C36823080115260-Split4.pdf'.
+2023-10-07 15:26:02,207 [3]ERROR OcrToPdfOnConsole2.Program - Could not find file 'D:\Pdf2\Source\SKM_C36823080115260-Split4.pdf'.
+2023-10-07 15:26:15,220 [11]ERROR OcrToPdfOnConsole2.Program - Could not find file 'D:\Pdf2\Source\SKM_C36823080115260-Split4.pdf'.
+2023-10-07 15:26:28,204 [12]ERROR OcrToPdfOnConsole2.Program - Could not find file 'D:\Pdf2\Source\SKM_C36823080115260-Split4.pdf'.
+2023-10-07 15:26:41,208 [13]ERROR OcrToPdfOnConsole2.Program - Could not find file 'D:\Pdf2\Source\SKM_C36823080115260-Split4.pdf'.
+2023-10-07 15:28:01,172 [1]DEBUG OcrToPdfOnConsole2.Program - start
+2023-10-07 15:35:33,076 [1]DEBUG OcrToPdfOnConsole2.Program - start
+2023-10-07 15:49:10,956 [1]DEBUG OcrToPdfOnConsole2.Program - start
+2023-10-07 15:55:25,460 [1]DEBUG OcrToPdfOnConsole2.Program - start
+2023-10-07 16:09:01,128 [1]DEBUG OcrToPdfOnConsole2.Program - start
+2023-10-07 16:10:15,856 [1]DEBUG OcrToPdfOnConsole2.Program - start
+2023-10-07 16:12:12,898 [1]DEBUG OcrToPdfOnConsole2.Program - start
+2023-10-07 16:12:26,006 [1]DEBUG OcrToPdfOnConsole2.Program - start
+2023-10-07 16:14:00,233 [1]DEBUG OcrToPdfOnConsole2.Program - start
+2023-10-07 16:14:19,059 [9]ERROR OcrToPdfOnConsole2.Program - Could not find file 'D:\Pdf2\Source\SKM_C36823080115260-Split4.pdf'.
+2023-10-07 16:14:43,523 [7]ERROR OcrToPdfOnConsole2.Program - Could not find file 'D:\Pdf2\Source\SKM_C36823080115260-Split4.pdf'.
+2023-10-07 16:15:41,733 [1]DEBUG OcrToPdfOnConsole2.Program - start
+2023-10-07 16:18:52,383 [8]ERROR OcrToPdfOnConsole2.Program - Could not find file 'D:\Pdf2\Source\SKM_C36823080115260-Split4.pdf'.
+2023-10-07 16:19:07,246 [1]DEBUG OcrToPdfOnConsole2.Program - start
+2023-10-07 16:22:00,573 [1]DEBUG OcrToPdfOnConsole2.Program - start
+2023-10-07 17:02:22,287 [1]DEBUG OcrToPdfOnConsole2.Program - start
+2023-10-07 17:16:31,492 [1]DEBUG OcrToPdfOnConsole2.Program - start
+2023-10-07 17:17:18,353 [1]DEBUG OcrToPdfOnConsole2.Program - start
+2023-10-07 17:18:03,308 [1]DEBUG OcrToPdfOnConsole2.Program - start
+2023-10-07 17:33:55,508 [1]DEBUG OcrToPdfOnConsole2.Program - start
+2023-10-07 17:54:26,361 [1]DEBUG OcrToPdfOnConsole2.Program - start
+2023-10-07 18:13:06,275 [29]ERROR OcrToPdfOnConsole2.Program - Could not find file 'D:\Pdf2\Processed\Images3\No-Split2.jpg'.
+2023-10-07 18:13:18,601 [1]DEBUG OcrToPdfOnConsole2.Program - start

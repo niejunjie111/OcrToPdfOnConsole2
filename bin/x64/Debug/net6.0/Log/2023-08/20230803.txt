@@ -1,0 +1,32 @@
+2023-08-03 10:56:09,400 [1]DEBUG OcrToPdfOnConsole2.Program - 程序启动
+2023-08-03 14:05:40,115 [1]DEBUG OcrToPdfOnConsole2.Program - start
+2023-08-03 14:06:51,954 [6]ERROR OcrToPdfOnConsole2.Program - 中文提示 :  连接数据库过程中发生错误，检查服务器是否正常连接字符串是否正确，错误信息：A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)DbType="SqlServer";ConfigId="".
+English Message : Connection open error . A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)DbType="SqlServer";ConfigId=""
+2023-08-03 14:09:52,037 [1]DEBUG OcrToPdfOnConsole2.Program - start
+2023-08-03 14:10:55,839 [1]DEBUG OcrToPdfOnConsole2.Program - start
+2023-08-03 14:12:16,384 [1]DEBUG OcrToPdfOnConsole2.Program - start
+2023-08-03 14:16:27,773 [1]DEBUG OcrToPdfOnConsole2.Program - start
+2023-08-03 14:30:47,797 [1]DEBUG OcrToPdfOnConsole2.Program - start
+2023-08-03 14:31:35,842 [12]ERROR OcrToPdfOnConsole2.Program - File doesn't exist (Parameter 'filename')
+2023-08-03 14:33:33,473 [1]DEBUG OcrToPdfOnConsole2.Program - start
+2023-08-03 14:38:23,498 [34]ERROR OcrToPdfOnConsole2.Program - 将截断字符串或二进制数据。
+语句已终止。
+2023-08-03 14:41:38,615 [1]DEBUG OcrToPdfOnConsole2.Program - start
+2023-08-03 14:53:40,765 [1]DEBUG OcrToPdfOnConsole2.Program - start
+2023-08-03 14:53:47,820 [9]ERROR OcrToPdfOnConsole2.Program - 将截断字符串或二进制数据。
+语句已终止。
+2023-08-03 14:54:17,412 [1]DEBUG OcrToPdfOnConsole2.Program - start
+2023-08-03 15:14:20,602 [1]DEBUG OcrToPdfOnConsole2.Program - start
+2023-08-03 15:21:18,723 [1]DEBUG OcrToPdfOnConsole2.Program - start
+2023-08-03 15:21:54,612 [3]ERROR OcrToPdfOnConsole2.Program - Could not find a part of the path 'D:\Pdf2\Merged\No.KH030342\(1).pdf'.
+2023-08-03 15:22:09,805 [10]ERROR OcrToPdfOnConsole2.Program - Could not find a part of the path 'D:\Pdf2\Merged\No.KH030342\(1).pdf'.
+2023-08-03 15:22:41,937 [1]DEBUG OcrToPdfOnConsole2.Program - start
+2023-08-03 15:25:51,253 [1]DEBUG OcrToPdfOnConsole2.Program - start
+2023-08-03 15:31:08,057 [1]DEBUG OcrToPdfOnConsole2.Program - start
+2023-08-03 15:33:16,230 [1]DEBUG OcrToPdfOnConsole2.Program - start
+2023-08-03 15:34:47,742 [1]DEBUG OcrToPdfOnConsole2.Program - start
+2023-08-03 15:38:20,700 [1]DEBUG OcrToPdfOnConsole2.Program - start
+2023-08-03 15:44:58,777 [1]DEBUG OcrToPdfOnConsole2.Program - start
+2023-08-03 15:47:04,598 [1]DEBUG OcrToPdfOnConsole2.Program - start
+2023-08-03 15:51:02,053 [1]DEBUG OcrToPdfOnConsole2.Program - start
+2023-08-03 15:53:38,690 [1]DEBUG OcrToPdfOnConsole2.Program - start
