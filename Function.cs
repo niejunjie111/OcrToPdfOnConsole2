@@ -69,6 +69,8 @@ namespace OcrToPdfOnConsole2
                     }
                 }
                 result.text = r1 + r2 + r3;
+                string invalidChars = @"[\\/、\:*?""<>|&^%$#@!：'',，。]";
+                result.text = Regex.Replace(result.text, invalidChars, "");
             }
             else
             {

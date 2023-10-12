@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8y+OROQenw9eiG0PLXikBfM+rK1LpmMYpCSmA/2gA3bOXUyisFxe7Iw/pFQVRzoH4cIfB5e29QsrfjYKC6zW/Q==",
+  "dgSpecHash": "uo60eH7Jec21k0pLHgf8G28mULtTr+wIHFTwVydzmgQ7OtTaIln4lk8p8s7zddQt04j7jLuJoKfcD+o/ALEhOA==",
   "success": true,
-  "projectFilePath": "D:\\Project\\操作pdf与图片\\OcrToPdfOnConsole2\\OcrToPdfOnConsole2.csproj",
+  "projectFilePath": "D:\\git_Pro\\OcrToPdfOnConsole2\\OcrToPdfOnConsole2.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\niejj\\.nuget\\packages\\bouncycastle\\1.8.9\\bouncycastle.1.8.9.nupkg.sha512",
     "C:\\Users\\niejj\\.nuget\\packages\\itext\\8.0.1\\itext.8.0.1.nupkg.sha512",

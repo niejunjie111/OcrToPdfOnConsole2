@@ -3,3 +3,8 @@
 2023-10-11 10:38:13,215 [1]DEBUG OcrToPdfOnConsole2.Program - start
 2023-10-11 11:03:11,913 [1]DEBUG OcrToPdfOnConsole2.Program - start
 2023-10-11 11:04:06,656 [1]DEBUG OcrToPdfOnConsole2.Program - start
+2023-10-11 14:53:07,295 [1]DEBUG OcrToPdfOnConsole2.Program - start
+2023-10-11 14:53:10,878 [3]ERROR OcrToPdfOnConsole2.Program - The process cannot access the file 'D:\Pdf2\Source\KHO50371(1)-Split1.pdf' because it is being used by another process.
+2023-10-11 14:53:36,405 [8]ERROR OcrToPdfOnConsole2.Program - A generic error occurred in GDI+.
+2023-10-11 14:53:38,236 [5]ERROR OcrToPdfOnConsole2.Program - The process cannot access the file 'D:\Pdf2\Source\KHO50371(1)-Split3.pdf' because it is being used by another process.
+2023-10-11 14:54:05,734 [1]DEBUG OcrToPdfOnConsole2.Program - start
